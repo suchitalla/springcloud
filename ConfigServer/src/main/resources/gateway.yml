@@ -1,4 +1,4 @@
-spring.application.name=apigateway
+spring.application.name=gateway
 eureka:
     client:
         register-with-eureka: false
